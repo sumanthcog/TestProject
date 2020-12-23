@@ -13,6 +13,7 @@ public class Sel {
 		WebDriver driver = new ChromeDriver();
 		
 		driver.get("https://www.youtube.com/");
+		driver.get("https://github.com/");
 	}
 
 }
